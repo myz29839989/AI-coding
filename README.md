@@ -31,12 +31,14 @@ Task Board Lite
 启动后端：
 
 cd D:\桌面\AIcoding\task-board-lite\backend
+
 npm.cmd start
 
 
 打开前端：
 
 cd D:\桌面\AIcoding\task-board-lite\frontend
+
 .\index.html
 
 前端是静态页面，可直接用浏览器打开。
