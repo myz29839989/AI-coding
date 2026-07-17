@@ -30,14 +30,14 @@ Task Board Lite
 
 启动后端：
 
-cd D:\桌面\AIcoding\task-board-lite\backend
+cd AIcoding/task-board-lite/backend
 
 npm.cmd start
 
 
 打开前端：
 
-cd D:\桌面\AIcoding\task-board-lite\frontend
+cd AIcoding/task-board-lite/frontend
 
 .\index.html
 
